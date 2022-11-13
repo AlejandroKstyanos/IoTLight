@@ -19,4 +19,10 @@ The first step is know where you will put your IoT Light, it could be in your ya
 
 For this example, I choose my yard.
 
+![Img of my yard 1](img/IMG_7990.JPG)
 
+This is the spot of the light in my yard.
+
+![Img of my yard 2](img/IMG_7992.JPG)
+
+and this is where the light is connected.
