@@ -9,22 +9,14 @@ Configuration and declarations for blynk and WiFi functions.
 #define BLYNK_TEMPLATE_ID       "TMPLCQ23_1R8"
 #define BLYNK_DEVICE_NAME       "MainComputer"
 #define BLYNK_AUTH_TOKEN        "dYf-F21oVlNqwUNM5SIRoqJ3TV-539Wb"
-#define BLYNK_PRINT Serial      //Use it for check connection to your blynk on serial monitor
+#define BLYNK_PRINT Serial      //Use it for check connection to your blynk server on serial monitor
 #include <BlynkSimpleEsp8266.h>
-#include <WiFiUdp.h>
-#include <NTPClient.h>
 
 //Variables
 char auth[] = BLYNK_AUTH_TOKEN;
 // Your WiFi credentials.
 char ssid[] = "INFINITUM64DC";
 char pass[] = "UQs3CTyPyg";
-
-//Initialization of NTP timer with UDP.
-/*
-WiFiUDP ntpUDP;
-NTPClient timeClient(ntpUDP, "3.mx.pool.ntp.org",-0,6000);
-*/
 
 
 /*

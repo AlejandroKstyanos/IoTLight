@@ -12,6 +12,7 @@ The main porpuse of this project is for apply all the knowledge gather in the Em
 - 1 x light.
 - 1 x light connector.
 - 1 x relay.
+- 1 x 9V Battery.
 
 ## Setup
 
@@ -26,3 +27,7 @@ This is the spot of the light in my yard.
 ![Img of my yard 2](img/IMG_7992.JPG)
 
 and this is where the light is connected.
+
+##Sketch
+
+![sketchs proyect](img/sketch.jpg)
